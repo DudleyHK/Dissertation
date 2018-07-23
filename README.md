@@ -8,5 +8,8 @@ This project investigates multiple automation techniques for level design throug
 - [Video](https://www.youtube.com/watch?v=76XambrRW_M)
 
 
+### Various Projects
+- [Repository](https://github.com/DudleyHK/Investigating-Level-Design-Techniques)
+
 
 
