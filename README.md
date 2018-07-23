@@ -4,7 +4,7 @@ This project investigates multiple automation techniques for level design throug
 
 
 ### 3D Level Generation using a Markov Chain
-- [Project](https://github.com/DudleyHK/Dissertation-Prototype)
+- [Project](https://github.com/DudleyHK/Automated-3D-Level-Generation)
 - [Video](https://www.youtube.com/watch?v=76XambrRW_M)
 
 
