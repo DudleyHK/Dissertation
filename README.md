@@ -9,6 +9,7 @@ This project investigates multiple automation techniques for level design throug
 
 
 ### Various Projects
+- [Explaination of Markov Platformer Level](https://www.youtube.com/watch?v=XcxsckJOvIg)
 - [Unity Prototypes](https://github.com/DudleyHK/Investigating-Level-Design-Techniques)
 - [Level Design Console Tests](https://github.com/DudleyHK/Level-Design-In-Console)
 
