@@ -9,7 +9,8 @@ This project investigates multiple automation techniques for level design throug
 
 
 ### Various Projects
-- [Repository](https://github.com/DudleyHK/Investigating-Level-Design-Techniques)
+- [Unity Prototypes](https://github.com/DudleyHK/Investigating-Level-Design-Techniques)
+- [Level Design Console Tests](https://github.com/DudleyHK/Level-Design-In-Console)
 
 
 ### Project Summary
