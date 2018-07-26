@@ -12,4 +12,8 @@ This project investigates multiple automation techniques for level design throug
 - [Repository](https://github.com/DudleyHK/Investigating-Level-Design-Techniques)
 
 
+### Project Summary
+- [Video](https://www.youtube.com/watch?v=tlCWWixwgvA)
+
+
 
