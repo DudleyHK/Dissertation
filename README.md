@@ -12,12 +12,13 @@ This prototype uses a Markov Chain to learn the probability between tiles in pre
 ---
 
 ![](https://dudleyhk.github.io/portfolio/disseration%20project/Markov%20Level%20Generator/MarkovChainGeneration.png)
+
 ![](https://dudleyHK.github.io/portfolio/disseration%20project/Markov%20Level%20Generator/MarkovChainGenerationAirTiles.png)
+
 ![](https://dudleyHK.github.io/portfolio/disseration%20project/Markov%20Level%20Generator/MarkovChainGenerationTransitionMatrix.png)
 
 
 ### Various Projects
-- [Explaination of Markov Platformer Level](https://www.youtube.com/watch?v=XcxsckJOvIg)
 - [Unity Prototypes](https://github.com/DudleyHK/Investigating-Level-Design-Techniques)
 - [Level Design Console Tests](https://github.com/DudleyHK/Level-Design-In-Console)
 
@@ -27,3 +28,5 @@ This prototype uses a Markov Chain to learn the probability between tiles in pre
 
 
 
+### Additional Material
+This [video](https://www.youtube.com/watch?v=XcxsckJOvIg) explains the technique used to automate the generation of a platformer leveland learns from more than one level.
