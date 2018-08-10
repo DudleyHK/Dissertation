@@ -7,6 +7,8 @@ This project investigates multiple automation techniques for level design throug
 - [Project](https://github.com/DudleyHK/Automated-3D-Level-Generation)
 - [Video](https://www.youtube.com/watch?v=76XambrRW_M)
 
+![](https://dudleyhk.github.io/portfolio/dissertation%20project/markov%20level%20generation/MarkovChainGeneration.png)
+
 
 ### Various Projects
 - [Explaination of Markov Platformer Level](https://www.youtube.com/watch?v=XcxsckJOvIg)
